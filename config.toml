@@ -1,0 +1,8 @@
+[api]
+port = "9000"
+
+[database]
+host = "localhost"
+user = "user_golang"
+pass = "1122"
+name = "rest-api-golang"
